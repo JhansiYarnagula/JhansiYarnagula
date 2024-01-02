@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,jenkins,docker,kubernetes,aws" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,mysql" /><br>
 </div>
 
