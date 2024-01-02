@@ -1,31 +1,4 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JhansiYarnagula.JhansiYarnagula" />
-
-**JhansiYarnagula/JhansiYarnagula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently doing masters 
-- 🌱 I’m currently learning cloud, infrastructure management, devops 
-
-
-
-<h3 align="center">A passionate & curious ADHD human being </h3>
-
-<br/>
-
-<div align="center"> 
-  <a href="mailto:jhansi.joe999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://JhansiYarnagula.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
  
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jhansi Yarnagula
 ========================================================================================================================================
