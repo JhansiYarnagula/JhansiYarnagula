@@ -1,8 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JhansiYarnagula.JhansiYarnagula" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jhansi+Yarnagula!;" />
-</h1>
-<!--
+
 **JhansiYarnagula/JhansiYarnagula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently doing masters 
 - 🌱 I’m currently learning cloud, infrastructure management, devops 
 
--->
+
 
 <h3 align="center">A passionate & curious ADHD human being </h3>
 
@@ -37,7 +34,7 @@ Switching my career to cloud and infra structure management .
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [jhansi.joe999@gmail.com](mailto:jhansi.joe999@gmail.com )
-*   🧠  I'm learning Devops, CI/CD pipeline
+*   🧠  I'm learning Devops, CI/CD pipeline, currently pursuing masters
 *   🤝  I'm open to collaborating on front end, IAC projects
 *   ⚡  I am ADHD, perfectionist, minimalist ...### Skills 
 <p align="left">
